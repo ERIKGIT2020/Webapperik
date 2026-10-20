@@ -27,8 +27,8 @@ const server = http.createServer((req, res) => {
       </style>
     </head>
     <body>
-      <h1>Bienvenido a Microsoft Azure</h1>
-      <h2>GitHub Actions funcionando</h2>
+      <h1>Bienvenido al curso gh-200 curso Netec</h1>
+      <h2>GitHub Actions funcionando Erik</h2>
       <p>Aplicacion Node.js publicada correctamente.</p>
       <p>Mi primer despliegue automatico</p>
     </body>
